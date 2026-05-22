@@ -1,0 +1,6 @@
+*.log
+*.key
+config/user_db.csv
+__pycache__/
+.env
+.DS_Store
