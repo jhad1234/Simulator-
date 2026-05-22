@@ -1,0 +1,9 @@
+[enb]
+mcc = 421
+mnc = 01
+n_prb = 50
+earfcn = 3350
+
+[sib]
+tac = 100
+cell_id = 0x01
